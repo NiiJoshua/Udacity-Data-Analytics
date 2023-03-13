@@ -3,3 +3,7 @@ This repo contains suggested solutions to the Udacity Data Analytics course at a
 
 ## Project-1
 Project-1 contains source codes and data (TMDb Movie database). I followed the rubric available in the notebook.
+## Steps 
+* Data Exploration
+* Data Visualisation
+* Data Analysis
